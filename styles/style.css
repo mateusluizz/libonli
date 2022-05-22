@@ -2,7 +2,7 @@ body {
   background-color: hwb(26 31% 4%);
   color: white;
   font-family: poppinsregular;
-  max-width: 1200px;
+  width: 1200px;
   margin: 0 auto;
   padding: 15px;
 }
